@@ -15,6 +15,7 @@ site.use(favicon())
   .copy([".png", ".jpg"])
   .copy("deck")
   .copy("fonts")
+  .ignore("README.md")
   .remoteFile(
     "_includes/styles/normalize.css",
     "https://unpkg.com/ui-normalize@0.3.0/ui-normalize.css",
