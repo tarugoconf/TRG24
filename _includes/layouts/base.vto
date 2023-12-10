@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="author" href="humans.txt" />
+  <title>{{ title }}</title>
+
+  <link href="/styles.css?{{ cache }}" rel="stylesheet">
+  <script src="/js/common.js?{{ cache }}" type="module"></script>
+  {{# {{ if it.styles }}<link href="{{ styles + "?" + cache }}" rel="stylesheet">{{ /if }}
+  {{ if it.scripts }}<script src="{{ scripts + "?" + cache }}" type="module"></script>{{ /if }} #}}
+</head>
+
+<body id="top" class="{{ it.body_class }}">
+  {{# {{ include "templates/navbar.vto" }} #}}
+
+  {{ content }}
+
+  <footer class="footer">
+    <div>
+      {{ footer.copyright |> md }}
+    </div>
+
+    <ul>
+      {{ for item of footer.menu }}
+      <li{{ item.separator ? ' class="is-separated"' : "" }}>
+          <a href="{{ item.href }}">
+              {{ item.text }}
+          </a>
+      </li>
+      {{ /for }}
+    </ul>
+
+    <img class="footer-logo" src="/img/icons/trg-duotone.svg" width="40" height="40">
+  </footer>
+</body>
+</html>

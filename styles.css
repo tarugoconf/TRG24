@@ -1,0 +1,127 @@
+@import "styles/normalize.css";
+@import "styles/base.css";
+@import "styles/fonts.css";
+@import "styles/variables.css";
+
+@import "styles/blocks/img-carousel.css";
+@import "styles/blocks/img-grid.css";
+
+@import "styles/components/trg-carousel.css";
+
+.home-container {
+  display: grid;
+
+  > * {
+    display: grid;
+    grid-template-columns: 0 minmax(0, 800px) 0;
+    justify-content: center;
+    padding: 2rem;
+
+    > * {
+      grid-column: 2;
+    }
+  }
+}
+
+.home-header {
+  background: var(--color-yellow);
+  row-gap: 5rem;
+  padding-top: 5rem;
+  padding-bottom: 10rem;
+
+  .header-logo {
+    display: grid;
+    grid-template-areas: "icon title" "icon date";
+    grid-template-columns: auto 1fr;
+    column-gap: 2rem;
+    row-gap: .5rem;
+
+    img {
+      max-width: 100%;
+      grid-area: icon;
+      max-width: min(10rem, 15vw);
+    }
+    h1 {
+      grid-area: title;
+      align-self: end;
+      margin: 0;
+      font-size: min(5rem, 10vw);
+      letter-spacing: -0.025em;
+      font-weight: 800;
+    }
+    p {
+      font-size: min(1.5rem, 4vw);
+      margin:0;
+      grid-area: date;
+    }
+  }
+
+  trg-carousel {
+    border: solid 20px color-mix(in srgb, var(--color-yellow), white 30%);
+    box-shadow: 0 5px 10px -5px #0003, 0 25px 100px -50px #0009;
+    border-radius: 12px;
+
+    img {
+      display: block;
+    }
+  }
+}
+
+.home-where {
+  row-gap: 2rem;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+}
+
+.home-sponsors {
+  background: var(--color-gray);
+  color: white;
+  row-gap: 2rem;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+
+  .subtitle {
+    margin-top: 5rem;
+  }
+
+  .block-imgGrid {
+    --img-ratio: 2 / 1;
+
+    li {
+      background: white;
+      border-radius: 4px;
+    }
+    img {
+      object-fit: contain;
+    }
+  }
+}
+
+.home-pdf {
+  width: 100%;
+  aspect-ratio: 5 / 3;
+  max-height: 90vh;
+  border: none;
+  border-radius: 12px;
+  box-shadow: 0 5px 10px -5px #000, 0 25px 100px -50px #000;
+}
+
+.title {
+  font-size: 3rem;
+  line-height: 1;
+  letter-spacing: -0.03em;
+  font-weight: 800;
+  margin: 0;
+}
+.subtitle {
+  font-size: 2rem;
+  line-height: 1;
+  letter-spacing: -0.03em;
+  font-weight: 800;
+  margin: 0;
+}
+
+.text {
+  font-size: var(--fs-2);
+  line-height: 1.5;
+}

@@ -1,0 +1,23 @@
+html {
+  font-family: var(--font-family);
+  color: var(--color-black);
+  scroll-padding-top: 150px;
+}
+body {
+  margin: 0;
+}
+hr {
+  width: 100%;
+  border-width: 2px;
+  margin: 5vh 0;
+}
+a {
+  color: currentColor;
+
+  &:hover {
+    text-decoration: none;
+  }
+}
+:focus-visible {
+  outline-color: currentColor;
+}

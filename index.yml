@@ -1,0 +1,128 @@
+layout: layouts/home.vto
+title: TRG24
+description: >
+  La Tarugoconf es una conferencia sobre diseño, construcción y comercialización de productos y servicios digitales** que nace alrededor de la heterogénea Comunidad de suscriptores y suscriptoras de La Bonilista, la newsletter semanal sobre emprendimiento tecnológico escrita por David Bonilla.
+menu:
+  items:
+  - text: Qué es
+    url: "#what"
+  - text: Dónde
+    url: "#where"
+  - text: Cómo patrocinar
+    url: "#sponsors"
+  - text: FAQ
+    url: "#faq"
+  - text: Contacto
+    url: "#contact"
+
+logo:
+  alt: "#trg24"
+  caption: Madrid, 14-16 Noviembre 2024
+
+intro:
+  id: what
+  aside: |
+    - **3** días
+    - **8** charlas
+    - **6** talleres
+    - **700** asistentes
+    - **1** comunidad
+
+  text: |
+    La Tarugoconf es **una conferencia sobre diseño, construcción y comercialización de productos y servicios digitales** que nace alrededor de la heterogénea Comunidad de suscriptores y suscriptoras de La Bonilista, la newsletter semanal sobre emprendimiento tecnológico escrita por David Bonilla.
+
+    Es ante todo, **un punto de encuentro para gente que «hace cosas»** alrededor del software, la innovación tecnológica e Internet: diseñadores, inversores, programadores, comerciales, gente de marketing o soporte, administradores de sistemas, recruiters... camaradas del metal, *tarugos* todos.
+
+    Organizada con un único objetivo: cuidar cada detalle del evento forma enfermiza —desde las acreditaciones hasta la oferta gastronómica— para **transformar la asistencia en una experiencia,** sin olvidar nunca que lo más importante de la Tarugoconf, lo que verdaderamente la diferencia, son sus charlas.
+
+  images:
+    - src: https://picsum.photos/1200/800?random=1
+      alt: Foto de una conferencia en la Tarugo4
+    - src: https://picsum.photos/1200/800?random=2
+      alt: Foto de una conferencia en la Tarugo4
+    - src: https://picsum.photos/1200/800?random=3
+      alt: Foto de una conferencia en la Tarugo4
+    - src: https://picsum.photos/1200/800?random=4
+      alt: Foto de una conferencia en la Tarugo4
+    - src: https://picsum.photos/1200/800?random=5
+      alt: Foto de una conferencia en la Tarugo4
+
+where:
+  id: where
+  title: ¿Dónde?
+  intro: >
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  images:
+    - src: https://picsum.photos/1200/800?random=1
+      alt: Foto de una conferencia en la Tarugo4
+    - src: https://picsum.photos/1200/800?random=2
+      alt: Foto de una conferencia en la Tarugo4
+    - src: https://picsum.photos/1200/800?random=3
+      alt: Foto de una conferencia en la Tarugo4
+    - src: https://picsum.photos/1200/800?random=4
+      alt: Foto de una conferencia en la Tarugo4
+    - src: https://picsum.photos/1200/800?random=5
+      alt: Foto de una conferencia en la Tarugo4
+  
+sponsors:
+  id: sponsors
+  title: Cómo patrocinar
+  intro: >
+    En la tarugo intentamos huir de la figura del «sponsor» habitual y **queremos convertir a nuestros patrocinadores en verdaderos socios** que sean una parte más del evento: nos preocupamos por entender sus objetivos y personalizamos los paquetes de patrocinio para intentar alcanzarlos, trabajando mano a mano con ellos y creando relaciones que perduran a lo largo de los años.
+
+    Si quieres ser parte de la próxima **#trg24** puedes mandarnos un mail a [tarugoconf@bonillaware.com](mailto:tarugoconf@bonillaware.com).
+  cta:
+    text: Descarga el dosier de patrocinio
+    href: /deck/deck_ES.pdf
+  link:
+    text: Versión en inglés
+    href: /deck/deck_ES.pdf
+
+past_sponsors:
+  subtitle: Patrocinadores en pasadas ediciones
+  items:
+    - img: /img/partners/autentia.png
+    - img: /img/partners/deiser.svg
+    - img: /img/partners/devengo-logo.png
+    - img: /img/partners/autentia.png
+    - img: /img/partners/deiser.svg
+    - img: /img/partners/devengo-logo.png
+    - img: /img/partners/autentia.png
+    - img: /img/partners/deiser.svg
+    - img: /img/partners/devengo-logo.png
+
+faq:
+  id: faq
+  title: FAQ
+  questions:
+    - question: ¿A quién está dirigido este evento? ¿Es para mi?
+      answer: |
+         Intentamos que la TRG sea un punto de encuentro para gente que hace cosas (o que tiene ganas de hacerlas) en el sector digital. Nos desvivimos para que te sientas como en casa, tanto si tienes un perfil tecnológico como si trabajas en otras disciplinas.         
+
+contact:
+  id: contact
+  title: Contacto
+  items:
+    - title: Candela Milán Dopico
+      info: Event manager
+      img: /img/candela.jpg
+      links:
+        - text: tarugoconf@bonillaware.com
+          url: mailto:tarugoconf@bonillaware.com
+          icon: /img/icons/envelope-duotone.svg
+        - text: "@candelamd"
+          icon: /img/icons/twitter-logo-duotone.svg
+          url: https://twitter.com/candelamd
+
+    - title: Bonillaware SLU
+      info: Castellana 194, Cink Coworking<br>28046 Madrid (España)
+      links:
+        - text: Ver mapa
+          icon: /img/icons/map-pin-duotone.svg
+          url: https://g.page/cink-coworking?share
+        - text: tarugoconf.slack.com
+          icon: /img/icons/slack-logo-duotone.svg
+          url: https://tarugoconf.slack.com
+        - text: "@tarugoconf"
+          icon: /img/icons/twitter-logo-duotone.svg
+          url: https://twitter.com/tarugoconf

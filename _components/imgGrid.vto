@@ -1,0 +1,26 @@
+<ul class="block-imgGrid">
+    {{ for item of items }}
+    <li>
+        {{ if item.url }}<a href="{{ item.url }}" target="_blank">{{ /if }}
+        <img src="{{ item.img }}" alt="{{ item.title }}">
+
+        {{ if item.title }}
+        <h3>{{ item.title }}</h3>
+        {{ /if }}
+
+        {{ if item.url }}</a>{{ /if }}
+
+        {{ item.description |> md }}
+
+        {{ if item.links }}
+        <address class="speaker-social">
+            {{ for link of item.links }}
+            <a href="{{ link.href }}" title="{{ link.title }}">
+                <img src="{{ link.icon }}" alt="{{ link.title }}">
+            </a>
+            {{ /for }}
+        </address>
+        {{ /if }}
+    </li>
+    {{ /for }}
+</ul>

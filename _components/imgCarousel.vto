@@ -1,0 +1,16 @@
+{{ set id = `carrousel_${it.id || Date.now()}` }}
+
+<div class="block-img-carousel">
+  <trg-carousel class="block-img-carousel-items" id="{{ id || 'carousel' }}" role="region" aria-label="Images" tabindex="0">
+    {{ for img of images }}
+    <figure class="block-img-carousel-item">
+      <img src="{{ img.src }}" alt="{{ img.alt }}">
+    </figure>
+    {{ /for }}
+  </trg-carousel>
+
+  <trg-carousel-navigation for="{{ id || 'carousel' }}" class="block-img-carousel-nav">
+    <button type="button" value="prev" class="button">Anterior</button>
+    <button type="button" value="next" class="button">Siguiente</button>
+  </trg-carousel-navigation>
+</div>

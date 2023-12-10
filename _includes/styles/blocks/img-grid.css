@@ -1,0 +1,44 @@
+.block-imgGrid {
+  --width: 240px;
+  --img-size: 150px;
+  --img-ratio: 1 / 1;
+
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, var(--width));
+  grid-column-gap: 2em;
+  grid-row-gap: 4em;
+  justify-content: space-around;
+  text-align: center;
+
+  &.is-center {
+    grid-template-columns: repeat(auto-fit, var(--width));
+    justify-content: center;
+  }
+
+  > li > a {
+    display: block;
+    text-decoration: none;
+  }
+
+  & h3 {
+    font-size: 1rem;
+    letter-spacing: -0.02em;
+    font-weight: bold;
+    margin: 1em 0 .3em;
+  }
+
+  & p {
+    font-size: 1em;
+    margin: 0;
+  }
+
+  & img {
+    width: var(--img-size);
+    aspect-ratio: var(--img-ratio);
+    object-fit: cover;
+    border-radius: 4px;
+  }
+}

@@ -1,0 +1,87 @@
+---
+layout: ./base.vto
+styles: /styles/home.css
+---
+
+<main class="home-container">
+  <header class="home-header">
+    <div class="header-logo">
+      <img src="/img/trgcon-icon-borderless.svg" alt="Icono TRGCON">
+      <h1>#trg24</h1>
+      <p>{{ logo.caption }}</p>
+    </div>
+
+    {{ comp.imgCarousel(intro) }}
+
+    <div class="header-intro text">
+      {{ intro.text |> md }}
+    </div>
+  </header>
+
+  <section class="home-where" id="{{ where.id }}">
+    <header>
+      <h2 class="title">{{ where.title }}</h2>
+    </header>
+
+    <div class="text">
+      {{ where.intro |> md }}
+    </div>
+
+    {{ comp.imgCarousel(where) }}
+  </section>
+
+  <section class="home-sponsors" id="{{ sponsors.id }}">
+    <header>
+      <h2 class="title">{{ sponsors.title }}</h2>
+    </header>
+
+    <div class="text">
+      {{ sponsors.intro |> md }}
+    </div>
+
+    <iframe class="home-pdf" src="{{ sponsors.cta.href }}">
+    </iframe>
+
+    <footer>
+      <a class="button" role="button" href="{{ sponsors.cta.href }}" download>
+        <strong>{{ sponsors.cta.text }}</strong>
+      </a>
+      <p><a href="{{ sponsors.link.href }}" download>{{ sponsors.link.text }}</a></p>
+    </footer>
+
+    <h3 class="subtitle">{{ past_sponsors.subtitle }}</h3>
+    {{ comp.imgGrid(past_sponsors) }}    
+  </section>
+
+  <section class="home-faq" id="{{ faq.id }}">
+    {{ comp.faq(faq) }}
+  </section>
+
+  <section class="block-contact" id="contact">
+    <header>
+      <h2 class="text-title">{{ contact.title }}</h2>
+    </header>
+
+    {{ for item of contact.items }}
+    <address class="text-base">
+      <div class="block-contact-subheader">
+        {{ if item.img }}
+          <img class="block-contact-image" src="{{ item.img }}">
+        {{ /if }}
+
+        <h3 class="text-intro">{{ item.title }}</h3>
+        {{ item.info |> md }}
+      </div>
+
+      <ul>
+      {{ for link of item.links }}
+        <li>
+          <img src="{{ link.icon }}" width=24 height=24>
+          <a href="{{ link.url }}">{{ link.text }}</a>
+        </li>
+      {{ /for }}
+      </ul>
+    </address>
+    {{ /for }}
+  </section>
+</main>
