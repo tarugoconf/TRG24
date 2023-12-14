@@ -4,12 +4,26 @@ styles: /styles/home.css
 ---
 
 <main class="home-container">
-  <header class="home-header">
+  <nav class="home-menu">
+    <ul>
+    {{ for item of menu.items }}
+      <li><a href="{{ item.url }}">{{ item.text }}</a></li>
+    {{ /for }}
+    </ul>
+  </nav>
+  <header class="home-header" id="what">
     <div class="header-logo">
       <img src="/img/trgcon-icon-borderless.svg" alt="Icono TRGCON">
       <h1>#trg24</h1>
       <p>{{ logo.caption }}</p>
+
+      {{ if it.banner }}
+      <a href="{{ banner.url }}" class="home-banner">
+        {{ banner.text }}
+      </a>
+      {{ /if }}
     </div>
+
 
     {{ comp.imgCarousel(intro) }}
 
@@ -43,7 +57,7 @@ styles: /styles/home.css
     </iframe>
 
     <footer>
-      <a class="button" role="button" href="{{ sponsors.cta.href }}" download>
+      <a class="button is-primary" role="button" href="{{ sponsors.cta.href }}" download>
         <strong>{{ sponsors.cta.text }}</strong>
       </a>
       <p><a href="{{ sponsors.link.href }}" download>{{ sponsors.link.text }}</a></p>
@@ -54,34 +68,40 @@ styles: /styles/home.css
   </section>
 
   <section class="home-faq" id="{{ faq.id }}">
+    <header>
+      <h2 class="title">{{ faq.title }}</h2>
+    </header>
+
     {{ comp.faq(faq) }}
   </section>
 
-  <section class="block-contact" id="contact">
+  <section class="home-contact" id="contact">
     <header>
-      <h2 class="text-title">{{ contact.title }}</h2>
+      <h2 class="title">{{ contact.title }}</h2>
     </header>
 
-    {{ for item of contact.items }}
-    <address class="text-base">
-      <div class="block-contact-subheader">
-        {{ if item.img }}
-          <img class="block-contact-image" src="{{ item.img }}">
-        {{ /if }}
+    <div class="home-block-contact">
+      {{ for item of contact.items }}
+      <address class="text-base">
+        <div class="block-contact-subheader">
+          {{ if item.img }}
+            <img class="block-contact-image" src="{{ item.img }}">
+          {{ /if }}
 
-        <h3 class="text-intro">{{ item.title }}</h3>
-        {{ item.info |> md }}
-      </div>
+          <h3 class="text-intro">{{ item.title }}</h3>
+          {{ item.info |> md }}
+        </div>
 
-      <ul>
-      {{ for link of item.links }}
-        <li>
-          <img src="{{ link.icon }}" width=24 height=24>
-          <a href="{{ link.url }}">{{ link.text }}</a>
-        </li>
+        <ul>
+        {{ for link of item.links }}
+          <li>
+            <img src="{{ link.icon }}" width=24 height=24>
+            <a href="{{ link.url }}">{{ link.text }}</a>
+          </li>
+        {{ /for }}
+        </ul>
+      </address>
       {{ /for }}
-      </ul>
-    </address>
-    {{ /for }}
+    </div>
   </section>
 </main>

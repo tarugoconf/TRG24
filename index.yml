@@ -19,6 +19,10 @@ logo:
   alt: "#trg24"
   caption: Madrid, 14-16 Noviembre 2024
 
+banner:
+  text: Ya disponible el dosier de patrocinio
+  url: "#sponsors"
+
 intro:
   id: what
   aside: |
@@ -95,6 +99,15 @@ faq:
   id: faq
   title: FAQ
   questions:
+    - question: ¿A quién está dirigido este evento? ¿Es para mi?
+      answer: |
+         Intentamos que la TRG sea un punto de encuentro para gente que hace cosas (o que tiene ganas de hacerlas) en el sector digital. Nos desvivimos para que te sientas como en casa, tanto si tienes un perfil tecnológico como si trabajas en otras disciplinas.         
+    - question: ¿A quién está dirigido este evento? ¿Es para mi?
+      answer: |
+         Intentamos que la TRG sea un punto de encuentro para gente que hace cosas (o que tiene ganas de hacerlas) en el sector digital. Nos desvivimos para que te sientas como en casa, tanto si tienes un perfil tecnológico como si trabajas en otras disciplinas.         
+    - question: ¿A quién está dirigido este evento? ¿Es para mi?
+      answer: |
+         Intentamos que la TRG sea un punto de encuentro para gente que hace cosas (o que tiene ganas de hacerlas) en el sector digital. Nos desvivimos para que te sientas como en casa, tanto si tienes un perfil tecnológico como si trabajas en otras disciplinas.         
     - question: ¿A quién está dirigido este evento? ¿Es para mi?
       answer: |
          Intentamos que la TRG sea un punto de encuentro para gente que hace cosas (o que tiene ganas de hacerlas) en el sector digital. Nos desvivimos para que te sientas como en casa, tanto si tienes un perfil tecnológico como si trabajas en otras disciplinas.         
