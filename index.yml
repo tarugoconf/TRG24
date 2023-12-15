@@ -4,23 +4,23 @@ description: >
   La Tarugoconf es una conferencia sobre diseño, construcción y comercialización de productos y servicios digitales** que nace alrededor de la heterogénea Comunidad de suscriptores y suscriptoras de La Bonilista, la newsletter semanal sobre emprendimiento tecnológico escrita por David Bonilla.
 menu:
   items:
-  - text: Qué es
+  - text: QUÉ ES
     url: "#what"
-  - text: Dónde
+  - text: DÓNDE
     url: "#where"
-  - text: Cómo patrocinar
+  - text: CÓMO PATROCINAR
     url: "#sponsors"
   - text: FAQ
     url: "#faq"
-  - text: Contacto
+  - text: CONTACTO
     url: "#contact"
 
 logo:
-  alt: "#trg24"
+  alt: "#TRG24"
   caption: Madrid, 14-16 Noviembre 2024
 
 banner:
-  text: Ya disponible el dosier de patrocinio
+  text: Ya disponible dosier de patrocinio
   url: "#sponsors"
 
 intro:
@@ -33,48 +33,60 @@ intro:
     - **1** comunidad
 
   text: |
-    La Tarugoconf es **una conferencia sobre diseño, construcción y comercialización de productos y servicios digitales** que nace alrededor de la heterogénea Comunidad de suscriptores y suscriptoras de La Bonilista, la newsletter semanal sobre emprendimiento tecnológico escrita por David Bonilla.
+    La TRG es **una conferencia sobre diseño, construcción y comercialización de servicios digitales** que nace alrededor de la heterogénea Comunidad de suscriptores de La Bonilista, la newsletter semanal sobre emprendimiento tecnológico escrita por David Bonilla.
 
-    Es ante todo, **un punto de encuentro para gente que «hace cosas»** alrededor del software, la innovación tecnológica e Internet: diseñadores, inversores, programadores, comerciales, gente de marketing o soporte, administradores de sistemas, recruiters... camaradas del metal, *tarugos* todos.
+    Es ante todo, **un punto de encuentro para gente que «hace cosas» alrededor del software, la innovación tecnológica e Internet**: desarrolladores, diseñadores, inversores, comerciales, gente de marketing o soporte, administradores de sistemas o recruiters. Nadie sobra y todos son bienvenidos.
 
-    Organizada con un único objetivo: cuidar cada detalle del evento forma enfermiza —desde las acreditaciones hasta la oferta gastronómica— para **transformar la asistencia en una experiencia,** sin olvidar nunca que lo más importante de la Tarugoconf, lo que verdaderamente la diferencia, son sus charlas.
+    Se organiza cuidando cada detalle de forma enfermiza —desde las acreditaciones hasta la oferta gastronómica— para intentar **transformar la asistencia en una experiencia** y aportar el mayor valor posible a asistentes, ponentes y patrocinadores.
 
   images:
-    - src: https://picsum.photos/1200/800?random=1
-      alt: Foto de una conferencia en la Tarugo4
-    - src: https://picsum.photos/1200/800?random=2
-      alt: Foto de una conferencia en la Tarugo4
-    - src: https://picsum.photos/1200/800?random=3
-      alt: Foto de una conferencia en la Tarugo4
-    - src: https://picsum.photos/1200/800?random=4
-      alt: Foto de una conferencia en la Tarugo4
-    - src: https://picsum.photos/1200/800?random=5
-      alt: Foto de una conferencia en la Tarugo4
+    - src: https://live.staticflickr.com/65535/53313189697_1e0059ed6e_k.jpg
+      alt: El auditorio de la TRG
+    - src: https://live.staticflickr.com/65535/53399475345_58a2314c97_k.jpg
+      alt: La comida
+    - src: https://live.staticflickr.com/65535/53313192127_4c78e4b8b2_3k.jpg
+      alt: Sandra Hernandez en la TRG23
+    - src: https://live.staticflickr.com/65535/53313187822_9a85d461bd_k.jpg
+      alt: Los donuts del stand de DEISER
+    - src: https://live.staticflickr.com/65535/53399242248_8413d1f0cd_k.jpg
+      alt: El control técnico         
+    - src: https://live.staticflickr.com/65535/53314407419_34e86e669e_k.jpg
+      alt: Completando el ADN Tarugo
+    - src: https://live.staticflickr.com/65535/53314408854_bda6ea7567_k.jpg
+      alt: El Crossover definitivo     
+    - src: https://live.staticflickr.com/65535/53314540315_e71d7e566e_k.jpg
+      alt: En la fiesta
+    
+    
 
 where:
   id: where
-  title: ¿Dónde?
+  title: Dónde
   intro: >
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  images:
-    - src: https://picsum.photos/1200/800?random=1
-      alt: Foto de una conferencia en la Tarugo4
-    - src: https://picsum.photos/1200/800?random=2
-      alt: Foto de una conferencia en la Tarugo4
-    - src: https://picsum.photos/1200/800?random=3
-      alt: Foto de una conferencia en la Tarugo4
-    - src: https://picsum.photos/1200/800?random=4
-      alt: Foto de una conferencia en la Tarugo4
-    - src: https://picsum.photos/1200/800?random=5
-      alt: Foto de una conferencia en la Tarugo4
+    Las tres jornadas del evento se celebrarán íntegramente en [La Nave](https://www.lanavemadrid.com/){target=_blank}, un espectacular espacio a menos de 10 minutos de la Estación de Atocha en Madrid, que acogerá todas las actividades.
+  images:    
+    - src: https://live.staticflickr.com/65535/53399447284_7a4a007b81_b.jpg
+      alt: El edificio de La Nave          
+    - src: https://live.staticflickr.com/65535/53399442424_b7767e3240_b.jpg
+      alt: La Nave en el Community Day de la TRG23    
+    - src: https://live.staticflickr.com/65535/53314515725_c1d14f65b9_3k.jpg
+      alt: El auditorio de La Nave
+    - src: https://live.staticflickr.com/65535/53314531745_ac22949980_3k.jpg
+      alt: Stand
+    - src: https://live.staticflickr.com/65535/53314407609_7786e42769_3k.jpg
+      alt: Haciendo networking
+    - src: https://live.staticflickr.com/65535/53313179507_9f6ee80515_3k.jpg 
+      alt: Comida en el Parking
+    - src: https://live.staticflickr.com/65535/53314400084_c38129f576_3k.jpg 
+      alt: Open Space en la czafetería            
   
 sponsors:
   id: sponsors
   title: Cómo patrocinar
   intro: >
-    En la tarugo intentamos huir de la figura del «sponsor» habitual y **queremos convertir a nuestros patrocinadores en verdaderos socios** que sean una parte más del evento: nos preocupamos por entender sus objetivos y personalizamos los paquetes de patrocinio para intentar alcanzarlos, trabajando mano a mano con ellos y creando relaciones que perduran a lo largo de los años.
-
-    Si quieres ser parte de la próxima **#trg24** puedes mandarnos un mail a [tarugoconf@bonillaware.com](mailto:tarugoconf@bonillaware.com).
+    En la TRG intentamos huir de la figura del «sponsor» habitual y **consideramos a nuestros patrocinadores verdaderos socios**. Nos preocupamos por entender sus objetivos y personalizamos los paquetes de patrocinio para intentar alcanzarlos, trabajando mano a mano con ellos y creando relaciones que perduran a lo largo de los años.
+    </br></br>
+    Si quieres que tu empresa sea parte de la próxima **#trg24** puedes mandarnos un mail a [tarugoconf@bonillaware.com](mailto:tarugoconf@bonillaware.com) ¡Nos encantará charlar contigo!
   cta:
     text: Descarga el dosier de patrocinio
     href: /deck/deck_ES.pdf
