@@ -89,40 +89,71 @@ sponsors:
     Si quieres que tu empresa sea parte de la próxima **#trg24** puedes mandarnos un mail a [tarugoconf@bonillaware.com](mailto:tarugoconf@bonillaware.com) ¡Nos encantará charlar contigo!
   cta:
     text: Descarga el dosier de patrocinio
-    href: /deck/deck_ES.pdf
+    href: /deck/TRG24_sponsorship_deck_ES.pdf
   link:
     text: Versión en inglés
     href: /deck/deck_ES.pdf
 
 past_sponsors:
-  subtitle: Patrocinadores en pasadas ediciones
+  subtitle: Algunos patrocinadores de pasadas ediciones
   items:
-    - img: /img/partners/autentia.png
+    - img: /img/partners/google-for-startups.png
     - img: /img/partners/deiser.svg
-    - img: /img/partners/devengo-logo.png
+    - img: /img/partners/cabify-logo-moradul-rgb.png
+    - img: /img/partners/sngular-logo-big.png
+    - img: /img/partners/eventbrite_logo.png
+    - img: /img/partners/tinybird.png
     - img: /img/partners/autentia.png
-    - img: /img/partners/deiser.svg
+    - img: /img/partners/stackscale-aire.png
     - img: /img/partners/devengo-logo.png
-    - img: /img/partners/autentia.png
-    - img: /img/partners/deiser.svg
-    - img: /img/partners/devengo-logo.png
+    - img: /img/partners/logo_airzone.png
+    - img: /img/partners/ibm_logo.svg.png
+    - img: /img/partners/velneo.svg
+    - img: /img/partners/magnolia.png
+    - img: /img/partners/PRDG_logo_Horizontal_Blue.png
+    - img: /img/partners/platzi.png
+    - img: /img/partners/genially.png
+    - img: /img/partners/panel.png
+    - img: /img/partners/personio_logo.png
 
 faq:
   id: faq
   title: FAQ
   questions:
-    - question: ¿A quién está dirigido este evento? ¿Es para mi?
+    - question: ¿A quién está dirigido este evento? ¿Es para mi o mi empresa?
       answer: |
-         Intentamos que la TRG sea un punto de encuentro para gente que hace cosas (o que tiene ganas de hacerlas) en el sector digital. Nos desvivimos para que te sientas como en casa, tanto si tienes un perfil tecnológico como si trabajas en otras disciplinas.         
-    - question: ¿A quién está dirigido este evento? ¿Es para mi?
+         Intentamos que la TRG sea un **punto de encuentro para gente que hace cosas (o que tiene ganas de hacerlas) en el sector digital**. Nos desvivimos para que te sientas como en casa, tanto si tienes un perfil tecnológico como si trabajas en otras disciplinas.
+         </br></br>
+         Lo mismo con las empresas. Si consideras que tu producto o servicio puede ser adecuado para la Comunidad técnica o quieres conocer a sus miembros para encontrar talento o crear relaciones duraderas, este es tu evento.
+    - question: Si patrocinamos el evento ¿podremos dar una charla?
       answer: |
-         Intentamos que la TRG sea un punto de encuentro para gente que hace cosas (o que tiene ganas de hacerlas) en el sector digital. Nos desvivimos para que te sientas como en casa, tanto si tienes un perfil tecnológico como si trabajas en otras disciplinas.         
-    - question: ¿A quién está dirigido este evento? ¿Es para mi?
+         No, las 7 charlas de la TRG se eligen siguiendo una linea editorial definida antes de conocer los patrocinios, pero siempre podréis impartir uno de los talleres patrocinados.
+    - question: ¿Enviais algún informe sobre el retorno de inversión del patrocinio?
       answer: |
-         Intentamos que la TRG sea un punto de encuentro para gente que hace cosas (o que tiene ganas de hacerlas) en el sector digital. Nos desvivimos para que te sientas como en casa, tanto si tienes un perfil tecnológico como si trabajas en otras disciplinas.         
-    - question: ¿A quién está dirigido este evento? ¿Es para mi?
+         xxx.
+    - question: ¿Emitís facturas? ¿Quién está detrás de la TRG legalmente?
       answer: |
-         Intentamos que la TRG sea un punto de encuentro para gente que hace cosas (o que tiene ganas de hacerlas) en el sector digital. Nos desvivimos para que te sientas como en casa, tanto si tienes un perfil tecnológico como si trabajas en otras disciplinas.         
+         La TRG se organiza por un grupo de voluntarios, pero con la producción de la empresa Bonillaware S.L.U. que —por supuesto— cumple con todas sus obligaciones fiscales, incluyendo hacer facturas tanto a patrocinadores como a asistentes. 
+    - question: ¿Qué es la cena de patrocinadores, mecenas y ponentes?
+      answer: |
+         xxx.
+    - question: ¿Qué es eso del Community Day del sábado?
+      answer: |
+        Una jornada abierta, a la que podréis traer a familia, compañeros y/o amigos, con un montón de actividades para grandes y pequeños. Tenéis mucha más info en [esta página](/community-day/){target=_blank}.         
+    - question:  ¿Cómo puedo estar al día de todas las noticias y novedades del evento?
+      answer: |
+        Tenemos un [Blog](https://tarugoconf.com/blog){target=_blank} donde iremos colgando toda la información relevante, 
+        pero no dejes de seguir [la cuenta en Twitter de la TRG](https://twitter.com/tarugoconf){target=_blank} y, 
+        especialmente, el hashtag [#trg24](https://twitter.com/search?q=%23trg24&src=typed_query&f=live){target=_blank}.          
+    - question: ¿Tenéis Código de Conducta?
+      answer: |
+         Por supuesto que tenemos [Código de Conducta](/codigo-de-conducta).
+    - question: Sigo teniendo dudas ¿qué hago?
+      answer: |
+        No problemo. Visita la sección de [Contacto](/#contact) de esta misma web 
+        donde encontrarás la información necesaria para contactar con nosotros por múltiples canales.
+        </br></br>
+        ¡Estaremos encantados de resolverte cualquier duda!         
 
 contact:
   id: contact
