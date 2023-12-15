@@ -1,0 +1,19 @@
+---
+layout: ./base.vto
+styles: /text.css
+---
+
+<main class="text-container">
+  <header class="text-header">
+      <h1 class="title">{{ title }}</h1>
+
+      {{ if it.subtitle }}
+        {{ subtitle |> md }}
+      {{ /if }}
+    </div>
+  </header>
+
+  <div class="text-content">
+    {{ content }}
+  </div>    
+</main>

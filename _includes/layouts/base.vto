@@ -7,7 +7,7 @@
   <link rel="author" href="humans.txt" />
   <title>{{ title }}</title>
 
-  <link href="/styles.css?{{ cache }}" rel="stylesheet">
+  <link href="{{ it.styles }}?{{ cache }}" rel="stylesheet">
   <script src="/js/common.js?{{ cache }}" type="module"></script>
   {{# {{ if it.styles }}<link href="{{ styles + "?" + cache }}" rel="stylesheet">{{ /if }}
   {{ if it.scripts }}<script src="{{ scripts + "?" + cache }}" type="module"></script>{{ /if }} #}}
@@ -33,7 +33,9 @@
       {{ /for }}
     </ul>
 
-    <img class="footer-logo" src="/img/trgcon-icon-footer.svg" width="40">
+    <a class="footer-logo" href="/">
+      <img src="/img/trgcon-icon-footer.svg" width="40">
+    </a>
   </footer>
 </body>
 </html>

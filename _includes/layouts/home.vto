@@ -1,11 +1,16 @@
 ---
 layout: ./base.vto
-styles: /styles/home.css
+styles: /styles.css
 ---
 
 <main class="home-container">
   <nav class="home-menu">
-    <ul>
+    <button id="menu-button" class="menu-button" label="Menú">
+      <img src="/img/icons/dots-three-circle-vertical-duotone.svg" width="48" height="48">
+      <span>Menú</span>
+    </button>
+
+    <ul class="menu-links">
     {{ for item of menu.items }}
       <li><a href="{{ item.url }}">{{ item.text }}</a></li>
     {{ /for }}
