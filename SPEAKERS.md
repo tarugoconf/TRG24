@@ -1,21 +1,27 @@
-<h1 align="center">Ser speaker en la TRG</h1>
+<div align="center">
+<h1>Ser speaker en la TRG</h1>
+ 
+[Las Charlas](#las-charlas) •
+[Qué aportamos a nuestros speakers](#qué-aportamos-a-nuestros-speakers) •
+[Algunos speakers de pasadas ediciones](#algunos-speakers-de-pasadas-ediciones) •
+[Recursos para speakers](#recursos-para-speakers) •
+[Contacto](#contacto)
+
+</div>
+
+![El auditorio de la TRG](img/speakers/escenario.jpg)
+
+| Quién | Por qué | Qué | Cómo |
+| :-: | :-: | :-: | :-: |
+| Recibirás una invitación personal para participar en la TRG. | Si aceptas, nos reuniremos para explicarte nuestra idea y consensuar la visión de tu charla. | Propondrás las lineas maestras de tu presentación y, tras la propuesta, se confirmará tu ponencia. | Si lo deseas, te ayudaremos con el *storytelling* y el diseño de la presentación para que esta sea PERFECTA. |
 
 Ser ponente de la TRG es una experiencia diferente. Empezando porque **la única forma de convertirte en uno/a de ellos es mediante invitación** y terminando porque no eligirás el tema sobre el que vas a hablar, solo cómo vas a desarrollarlo :)
 
 Una de las cosas más peculiares de la conferencia es que tiene «línea editorial». Primero **seleccionamos los temas que nos parecen más interesantes y, después, a las personas que creemos más apropiadas para hacerlo.** Por ejemplo, a ti. No hay *call for papers* ni charlas patrocinadas, todos los contenidos son planificados y cuidados con detalle.
 
-En esta ocasión queremos que todas las charlas giren alrededor de **buenas prácticas para el desarrollo y venta de tecnología**, pero desde un punto de vista diferente al habitual.
+En esta ocasión queremos que todas las charlas giren alrededor de **las raices de la Informática y los valores que la modelaron**, pero desde un punto de vista diferente al habitual.
 
-### Quién
-Recibirás una invitación personal para participar en la TRG.
-### Por qué
-Si aceptas, nos reuniremos para explicarte nuestra idea y consensuar la visión de tu charla.
-### Qué
-Propondrás las lineas maestras de tu presentación y, tras la propuesta, se confirmará tu ponencia.
-### Cómo
-Si lo deseas, te ayudaremos con el *storytelling* y el diseño de la presentación para que esta sea PERFECTA.
 
-![El auditorio de la TRG](img/speakers/escenario.jpg)
 
 ## Las charlas
  
@@ -30,7 +36,7 @@ Si lo deseas, te ayudaremos con el *storytelling* y el diseño de la presentaci�
 
 No tendrás que competir con otro ponente. Hay un sólo track, así que **toda la atención del evento estará puesta en tu charla.**
 
-Más allá del tema, **tendrás total libertad para desarrollar tu charla.** Sólo te pediremos que sigas nuestro sencillo [código de conducta](/codigo-de-conducta).
+Más allá del tema, **tendrás total libertad para desarrollar tu charla.** Sólo te pediremos que sigas nuestro sencillo [código de conducta](https://trgcon.com/codigo-de-conducta/).
 
 Durante todo el proceso de creación de tu presentación, contarás con nuestro feedback y nuestra ayuda para **conseguir un resultado memorable.**
 
