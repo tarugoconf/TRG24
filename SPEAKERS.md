@@ -39,22 +39,22 @@ Durante todo el proceso de creación de tu presentación, contarás con nuestro 
 
 ## Qué aportamos a nuestros speakers
 
-Remuneramos a ponentes speakers con una **pequeña gratificación de 250€**, pero el esfuerzo invertido en preparar una charla es igual que el esfuerzo invertido en preparar un evento —nunca es rentable desde el punto de vista económico— así que, lo menos que podemos hacer es compensarlos en su justa medida. Ellos son las verdaderas estrellas de la TRG.
+Remuneramos a ponentes speakers con **una pequeña gratificación de 250€**, pero el esfuerzo invertido en preparar una charla es igual que el esfuerzo invertido en preparar un evento —nunca es rentable desde el punto de vista económico— así que, lo menos que podemos hacer es compensarlos en su justa medida. Ellos son las verdaderas estrellas de la TRG.
 
 
-- Viaje: por supuesto, nos haremos cargo de tu viaje para que puedas disfrutar del evento completo, no sólo el día de tu charla.
-- Alojamiento: También cubrimos tu alojamiento. Y si quieres venir con la familia, reservaremos una habitación en la que quepáis todos.
-- Diseño: Si lo deseas, nuestro diseñador revisará tu presentación y la «vestirá» con un aspecto profesional para que brille.
-- Storytelling: Si quieres, te ayudaremos a descubrir la historia detrás de los datos y los hechos, para cautivar a la audiencia.
-- Acceso VIP: Tu entrada te dará acceso a todas las actividades de la TRG, desde los talleres del jueves hasta el Open Space del sábado.
-- Regalo: Somos gallegos, así que, cuenta con un regalo de cortesía, probablemente, relacionado con la gastronomía...
-- Entradas: Todos los ponentes de la TRG tienen garantizada una entrada para la siguiente edición. Sin coste.
-- Sketchnoting: Tu charla será «dibujada» por nuestro sketchnoter y podrás disponer del dibujo y difundirlo como consideres.
-- Vídeo: Tu charla será grabada por 5 cámaras que recogerán todos los detalles y publicada en Vimeo. Si nos das tu consentimiento, claro :)
-- Transporte: Nos haremos cargo no sólo de tu viaje hasta Madrid sino de tus desplazamientos dentro de la ciudad. Faltaría más.
-- Networking: Acceso a la exclusiva cena de mecenas y ponentes donde conocerás y te conocerán en un ambiente familiar.
-- Cariño: Para nosotros no serás un ponente sino nuestro invitado. Nos dejaremos la piel para que te sientas como en casa.
-- Buen ambiente: amigable etc.
+✈️ Viaje: por supuesto, nos haremos cargo de tu viaje para que puedas disfrutar del evento completo, no sólo el día de tu charla.<br/>
+🛏️ Alojamiento: También cubrimos tu alojamiento. Y si quieres venir con la familia, reservaremos una habitación en la que quepáis todos.<br/>
+🎨 Diseño: Si lo deseas, nuestro diseñador revisará tu presentación y la «vestirá» con un aspecto profesional para que brille.<br/>
+🎭 Storytelling: Si quieres, te ayudaremos a descubrir la historia detrás de los datos y los hechos, para cautivar a la audiencia.<br/>
+💎 Acceso VIP: Tu entrada te dará acceso a todas las actividades de la TRG, desde los talleres del jueves hasta el Open Space del sábado.<br/>
+🎁 Regalo: Somos gallegos, así que, cuenta con un regalo de cortesía, probablemente, relacionado con la gastronomía...<br/>
+🎟️ Entradas: Todos los ponentes de la TRG tienen garantizada una entrada para la siguiente edición. Sin coste.<br/>
+🖼️ Sketchnoting: Tu charla será «dibujada» por nuestro sketchnoter y podrás disponer del dibujo y difundirlo como consideres.<br/>
+🎥 Vídeo: Tu charla será grabada por 5 cámaras que recogerán todos los detalles y publicada en Vimeo. Si nos das tu consentimiento, claro :)<br/>
+🚕 Transporte: Nos haremos cargo no sólo de tu viaje hasta Madrid sino de tus desplazamientos dentro de la ciudad. Faltaría más.<br/>
+🤝 Networking: Acceso a la exclusiva cena de mecenas y ponentes donde conocerás y te conocerán en un ambiente familiar.<br/>
+❤️ Cariño: Para nosotros no serás un ponente sino nuestro invitado. Nos dejaremos la piel para que te sientas como en casa.<br/>
+😺 Buen ambiente: amigable etc.
 
 ## Algunos speakers de pasadas ediciones
 
