@@ -34,7 +34,7 @@ Más allá del tema, **tendrás total libertad para desarrollar tu charla.** Só
 
 Durante todo el proceso de creación de tu presentación, contarás con nuestro feedback y nuestra ayuda para **conseguir un resultado memorable.**
 
-<a href="https://vimeo.com/trgcon/trg23-antonio" target="_blank">![Antonio dando su charla](img/speakers/antonio.jpg)</a>
+[![Antonio dando su charla](img/speakers/antonio.jpg)](https://vimeo.com/trgcon/trg23-antonio){:target="_blank" rel="noopener"}
 
 
 ## Qué aportamos a nuestros speakers
@@ -62,10 +62,10 @@ Esta es una pequeña muestra de ponentes de otras ediciones, tanto para que pued
 
 | Ponente | Edición | Charla |
 | - | :-: | - |
-| <a href="https://twitter.com/JaimeObregon" target="_blank">Jaime Gomez-Obregón</a> – Activista | 2021 | «[Aportando transparencia a la Administración Pública mediante la Informática](https://vimeo.com/650199371)» |
+| [Jaime Gomez-Obregón](https://twitter.com/JaimeObregon) – Activista | 2021 | «[Aportando transparencia a la Administración Pública mediante la Informática](https://vimeo.com/650199371)» |
 | [Eva Belmonte](https://twitter.com/evabelmonte) – Directora de Civio | 2020 | «[Transparencia e Información durante el COVIDgedón](https://vimeo.com/500138922)» |
 | [Javier G. Recuenco](https://twitter.com/Recuenco) – Fundador y CSO - Singular Solving | 2022 | «[Un framework mental para enfrentarte al mundo real](https://vimeo.com/830825538)» | 
-| [Jimena Catalina](https://twitter.com/subidubi){target="_blank"} – Creadora de Slides Carnival | 2016 | «[La culpa SIEMPRE es del diseñador](https://www.youtube.com/watch?v=bUqB-ipn54o)» |
+| [Jimena Catalina](https://twitter.com/subidubi) – Creadora de Slides Carnival | 2016 | «[La culpa SIEMPRE es del diseñador](https://www.youtube.com/watch?v=bUqB-ipn54o)» |
 
 
 > Después de 7 años, aun me siguen recordando la charla que di en la primera TRG. Incluso gente que no estuvo allí..<br/>~ Javi Santana, Fundador de Carto y Tinybird
