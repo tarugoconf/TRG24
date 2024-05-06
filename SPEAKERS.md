@@ -22,6 +22,7 @@ Una de las cosas más peculiares de la conferencia es que tiene «línea editori
 En esta ocasión queremos que todas las charlas giren alrededor de **las raices de la Informática y los valores que la modelaron**, pero desde un punto de vista diferente al habitual.
 
 
+<br/>
 
 ## 🍿 Las charlas
  
@@ -42,6 +43,7 @@ Durante todo el proceso de creación de tu presentación, contarás con nuestro 
 
 [![Antonio dando su charla](img/speakers/antonio.jpg)](https://vimeo.com/trgcon/trg23-antonio)
 
+<br/>
 
 ## 🛍️ Qué aportamos a nuestros speakers
 
@@ -62,6 +64,8 @@ Remuneramos a ponentes speakers con **una pequeña gratificación de 250€**, p
 ❤️ Cariño: Para nosotros no serás un ponente sino nuestro invitado. Nos dejaremos la piel para que te sientas como en casa.<br/>
 😺 Buen ambiente: amigable etc.
 
+<br/>
+
 ## 🌟 Algunos speakers de pasadas ediciones
 
 Esta es una pequeña muestra de ponentes de otras ediciones, tanto para que puedas comprobar qué tipo de personas que vienen a la TRG como para que puedas contactarlas y pedirles referencias sobre cómo fue la experiencia:
@@ -76,6 +80,7 @@ Esta es una pequeña muestra de ponentes de otras ediciones, tanto para que pued
 
 > Después de 7 años, aun me siguen recordando la charla que di en la primera TRG. Incluso gente que no estuvo allí..<br/>~ Javi Santana, Fundador de Carto y Tinybird
 
+<br/>
 
 ## 🧰 Recursos para speakers
 
@@ -84,6 +89,8 @@ Materiales e información que puede ayudar a los speakers a entender mejor la fi
 * [El postmortem de la última edición (2023)](https://www.bonillaware.com/postmortem-trg23)
 * [Vídeo-resumen de la TRG23 (2022)](https://vimeo.com/928563768?share=copy`)
 * [Álbumes en Flickr con las fotos de todas las ediciones](https://www.flickr.com/photos/tarugoconf/albums)
+
+<br/>
 
 ## ☎️ Contacto
 
