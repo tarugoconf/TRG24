@@ -11,15 +11,15 @@
 
 ![El auditorio de la TRG](img/speakers/escenario.jpg)
 
-| Quién | Por qué | Qué | Cómo |
-| :-: | :-: | :-: | :-: |
-| Recibirás una invitación personal para participar en la TRG. | Si aceptas, nos reuniremos para explicarte nuestra idea y consensuar la visión de tu charla. | Propondrás las lineas maestras de tu presentación y, tras la propuesta, se confirmará tu ponencia. | Si lo deseas, te ayudaremos con el *storytelling* y el diseño de la presentación para que esta sea PERFECTA. |
-
 Ser ponente de la TRG es una experiencia diferente. Empezando porque **la única forma de convertirte en uno/a de ellos es mediante invitación** y terminando porque no eligirás el tema sobre el que vas a hablar, solo cómo vas a desarrollarlo :)
 
 Una de las cosas más peculiares de la conferencia es que tiene «línea editorial». Primero **seleccionamos los temas que nos parecen más interesantes y, después, a las personas que creemos más apropiadas para hacerlo.** Por ejemplo, a ti. No hay *call for papers* ni charlas patrocinadas, todos los contenidos son planificados y cuidados con detalle.
 
 En esta ocasión queremos que todas las charlas giren alrededor de **las raices de la Informática y los valores que la modelaron**, pero desde un punto de vista diferente al habitual.
+
+| Quién | Por qué | Qué | Cómo |
+| :-: | :-: | :-: | :-: |
+| Recibirás una invitación personal para participar en la TRG. | Si aceptas, nos reuniremos para explicarte nuestra idea y consensuar la visión de tu charla. | Propondrás las lineas maestras de tu presentación y, tras la propuesta, se confirmará tu ponencia. | Si lo deseas, te ayudaremos con el *storytelling* y el diseño de la presentación para que esta sea PERFECTA. |
 
 
 <br/>
@@ -68,17 +68,36 @@ Remuneramos a ponentes speakers con **una pequeña gratificación de 250€**, p
 
 ## 🌟 Algunos speakers de pasadas ediciones
 
+> Después de 7 años, aun me siguen recordando la charla que di en la primera TRG. Incluso gente que no estuvo allí...<br/>~ Javi Santana, Fundador de Carto y Tinybird
+<br/>
+
 Esta es una pequeña muestra de ponentes de otras ediciones, tanto para que puedas comprobar qué tipo de personas que vienen a la TRG como para que puedas contactarlas y pedirles referencias sobre cómo fue la experiencia:
 
-| Ponente | Edición | Charla |
+| PONENTE | EDICIÓN | CHARLA |
 | - | :-: | - |
-| [Jaime Gomez-Obregón](https://twitter.com/JaimeObregon) – Activista | 2021 | «[Aportando transparencia a la Administración Pública mediante la Informática](https://vimeo.com/650199371)» |
-| [Eva Belmonte](https://twitter.com/evabelmonte) – Directora de Civio | 2020 | «[Transparencia e Información durante el COVIDgedón](https://vimeo.com/500138922)» |
-| [Javier G. Recuenco](https://twitter.com/Recuenco) – Fundador y CSO - Singular Solving | 2022 | «[Un framework mental para enfrentarte al mundo real](https://vimeo.com/830825538)» | 
-| [Jimena Catalina](https://twitter.com/subidubi) – Creadora de Slides Carnival | 2016 | «[La culpa SIEMPRE es del diseñador](https://www.youtube.com/watch?v=bUqB-ipn54o)» |
+| [Jaime Gomez-Obregón](https://twitter.com/JaimeObregon) – Activista | 2021 | [«Aportando transparencia a la Administración Pública mediante la Informática»](https://vimeo.com/650199371) |
+| [Eva Belmonte](https://twitter.com/evabelmonte) – Directora de Civio | 2020 | [«Transparencia e Información durante el COVIDgedón»](https://vimeo.com/500138922) |
+| [Javier G. Recuenco](https://twitter.com/Recuenco) – Fundador y CSO - Singular Solving | 2022 | [«Un framework mental para enfrentarte al mundo real»](https://vimeo.com/830825538) | 
+| [Jimena Catalina](https://twitter.com/subidubi) – Creadora de Slides Carnival | 2016 | [«La culpa SIEMPRE es del diseñado»r](https://www.youtube.com/watch?v=bUqB-ipn54o) |
 
+<!-- SPEAKERS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://twitter.com/javisantana"><img src="https://github.com/tarugoconf/TRG23/blob/master/img/past-speakers/javi-santana.jpeg?s=100" width="100px;" alt="Javi Santana"/><br /><sub><b>Javi Santana (2016)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/blanaspa"><img src="https://avatars.githubusercontent.com/u/30079172?v=4?s=100" width="100px;" alt="Blanca Lanaspa"/><br /><sub><b>Blanca Lanaspa</b></sub></a></td>
+    <td align="center"><a href="https://github.com/molpe"><img src="https://avatars.githubusercontent.com/u/7792?v=4?s=100" width="100px;" alt="Alberto Molpeceres"/><br /><sub><b>Alberto Molpeceres</b></sub></a></td>
+    <td align="center"><a href="https://github.com/jerolba"><img src="https://avatars.githubusercontent.com/u/709055?v=4?s=100" width="100px;" alt="Jerónimo López"/><br /><sub><b>Jerónimo López</b></sub></a></td>
+  </tr>
+</table>
 
-> Después de 7 años, aun me siguen recordando la charla que di en la primera TRG. Incluso gente que no estuvo allí..<br/>~ Javi Santana, Fundador de Carto y Tinybird
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- SPEAKRES-LIST:END -->
+... y muchos más.
+
 
 <br/>
 
