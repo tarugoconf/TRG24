@@ -62,7 +62,7 @@ Esta es una pequeña muestra de ponentes de otras ediciones, tanto para que pued
 
 | Ponente | Edición | Charla |
 | - | :-: | - |
-| [Jaime Gomez-Obregón](https://twitter.com/JaimeObregon) – Activista | 2021 | «[Aportando transparencia a la Administración Pública mediante la Informática](https://vimeo.com/650199371)» |
+| <a href="https://twitter.com/JaimeObregon" target="_blank">Jaime Gomez-Obregón</a> – Activista | 2021 | «[Aportando transparencia a la Administración Pública mediante la Informática](https://vimeo.com/650199371)» |
 | [Eva Belmonte](https://twitter.com/evabelmonte) – Directora de Civio | 2020 | «[Transparencia e Información durante el COVIDgedón](https://vimeo.com/500138922)» |
 | [Javier G. Recuenco](https://twitter.com/Recuenco) – Fundador y CSO - Singular Solving | 2022 | «[Un framework mental para enfrentarte al mundo real](https://vimeo.com/830825538)» | 
 | [Jimena Catalina](https://twitter.com/subidubi){target="_blank"} – Creadora de Slides Carnival | 2016 | «[La culpa SIEMPRE es del diseñador](https://www.youtube.com/watch?v=bUqB-ipn54o)» |
