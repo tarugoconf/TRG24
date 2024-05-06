@@ -58,125 +58,18 @@ Remuneramos a ponentes speakers con **una pequeña gratificación de 250€**, p
 
 ## Algunos speakers de pasadas ediciones
 
-Te dejamos algunas referencias de ponentes de otras ediciones, tanto para que puedas ver el tipo de personas 
+Esta es una pequeña muestra de ponentes de otras ediciones, tanto para que puedas comprobar qué tipo de personas que vienen a la TRG como para que puedas contactarlas y pedirles referencias sobre cómo fue la experiencia:
 
-<table>
-<tr>
-<td width="33%"">
-The quick brown fox jumps over the lazy dog.
-</td>
-<td width="33%">
-The quick brown fox jumps over the lazy dog.
-</td>
-<td width="33%">
-The quick brown fox jumps over the lazy dog.
-</td>
-</tr>
-</table>
+| Ponente | Edición | Charla |
+| - | :-: | - |
+| [Jaime Gomez-Obregón](https://twitter.com/JaimeObregon) – Activista | 2021 | «[Aportando transparencia a la Administración Pública mediante la Informática](https://vimeo.com/650199371)» |
+| [Eva Belmonte](https://twitter.com/evabelmonte) – Directora de Civio | 2020 | «[Transparencia e Información durante el COVIDgedón](https://vimeo.com/500138922)» |
+| [Javier G. Recuenco](https://twitter.com/Recuenco) – Fundador y CSO - Singular Solving | 2022 | «[Un framework mental para enfrentarte al mundo real](https://vimeo.com/830825538)» | 
+| [Jimena Catalina](https://twitter.com/subidubi) – Creadora de Slides Carnival | 2016 | «[La culpa SIEMPRE es del diseñador](https://www.youtube.com/watch?v=bUqB-ipn54o)» |
 
-quotes:
-    - quote: >
-        El impacto de la TRG en mi carrera profesional fue tan profundo como indiscutible.
-        Todavía hay gente que me para por la calle para hablar de mi charla en la edición de 2022.
-      name: Javier G. Recuenco
-      position: Fundador y CSO - Singular Solving
-      img: /img/past-speakers/javier-recuenco.jpg
-    - quote: >
-        La TRG es la conferencia donde más he disfrutado el turno de
-        preguntas. 
-      name: Jimena Catalina
-      position: Creadora de Slides Carnival
-      img: /img/past-speakers/jimena-catalina.jpg
-    - quote: >
-        Después de 7 años, aun me siguen recordando la charla que di en la
-        primera TRG. Incluso gente que no estuvo allí.
-      name: Javi Santana
-      position: Fundador de Carto y Tinybird
-      img: /img/past-speakers/javi-santana.jpeg
-    - quote: >
-        El número de socios de Civio subió exponencialmente desde que di mi
-        charla en la TRG.
-      name: Eva Belmonte
-      position: Directora de Civio
-      img: /img/past-speakers/eva-belmonte.jpg
-  speakers:  
-    - title: Luz Sancho
-      description: Cofundadora del estudio de videojuegos Tequila Works
-      img: /img/past-speakers/luz-sancho.jpg
-      social:
-        - icon: /img/icons/twitter.svg
-          title: "@luzmsancho"
-          href: https://twitter.com/luzmsancho
-    - title: Jaime Gómez-Obregón
-      description: Activista
-      img: /img/past-speakers/jaime-gomez.jpeg
-      social:
-        - icon: /img/icons/twitter.svg
-          title: "@JaimeObregon"
-          href: https://twitter.com/JaimeObregon    
-    - title: Andrea Barber
-      description: Cofundadora de Rated Power
-      img: /img/past-speakers/andrea-barber.jpg
-      social:
-        - icon: /img/icons/twitter.svg
-          title: "@andreabarberl"
-          href: https://twitter.com/andreabarberl
-    - title: Joan Viñallonga
-      description: Creador del Calippo y el Frigopié
-      img: /img/past-speakers/joan-vinallonga.jpg
-    - title: Justyna Adamczyk
-      description: Head of People en Sketch
-      img: /img/past-speakers/justyna-adamczyk.jpeg
-      social:
-        - icon: /img/icons/twitter.svg
-          title: "@justyna_adam"
-          href: https://twitter.com/Justyna_Adam
-    - title: Diego Mariño
-      description: Scrum Master
-      img: /img/past-speakers/diego-marino.jpeg
-      social:
-        - icon: /img/icons/twitter.svg
-          title: "@diegomarino"
-          href: https://twitter.com/diegomarino
-    - title: Paz Gimeno
-      description: Primera programadora española
-      img: /img/past-speakers/paz-gimeno.jpg
-    - title: Álvaro Videla
-      description: Azure Advocate / RabbitMQ Dev
-      img: /img/past-speakers/alvaro-videla.jpg
-      social:
-        - icon: /img/icons/twitter.svg
-          title: "@old_sound"
-          href: https://twitter.com/old_sound
-    - title: Daniel Lopez
-      description: Fundador de Bitnami
-      img: /img/past-speakers/daniel-lopez.jpg
-      social:
-        - icon: /img/icons/twitter.svg
-          title: "@vomkriege"
-          href: https://twitter.com/vomkriege
-    - title: Esther Alonso
-      description: Directora de Marketing en eldiario.es
-      img: /img/past-speakers/esther-alonso.jpg
-      social:
-        - icon: /img/icons/twitter.svg
-          title: "@estheralone"
-          href: https://twitter.com/estheralone
-    - title: Andrés Torrubia
-      description: CEO de Fixr
-      img: /img/past-speakers/andres-torrubia.jpg
-      social:
-        - icon: /img/icons/twitter.svg
-          title: "@antor"
-          href: https://twitter.com/antor
-    - title: Marta Beltrán
-      description: Profesora en la URJC
-      img: /img/past-speakers/marta-beltran.jpeg
-      social:
-        - icon: /img/icons/twitter.svg
-          title: "@experiencia_T"
-          href: https://twitter.com/experiencia_T
-resources:
+
+> Después de 7 años, aun me siguen recordando la charla que di en la primera TRG. Incluso gente que no estuvo allí..<br/>~ Javi Santana, Fundador de Carto y Tinybird
+
 
 ## Recursos para speakers
 
