@@ -34,7 +34,7 @@ Más allá del tema, **tendrás total libertad para desarrollar tu charla.** Só
 
 Durante todo el proceso de creación de tu presentación, contarás con nuestro feedback y nuestra ayuda para **conseguir un resultado memorable.**
 
-[![Antonio dando su charla](img/speakers/antonio.jpg)](https://vimeo.com/trgcon/trg23-antonio)
+[![Antonio dando su charla](img/speakers/antonio.jpg)](https://vimeo.com/trgcon/trg23-antonio){:target="_blank" rel="noopener"}
 
 
 ## Qué aportamos a nuestros speakers
