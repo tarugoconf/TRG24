@@ -5,7 +5,7 @@
 [Qué aportamos a nuestros speakers](#%EF%B8%8F-qu%C3%A9-aportamos-a-nuestros-speakers) •
 [Algunos speakers de pasadas ediciones](#-algunos-speakers-de-pasadas-ediciones) •
 [Recursos para speakers](#-recursos-para-speakers) •
-[Contacto](#-contacto)
+[Contacto](#%EF%B8%8F-contacto)
 
 </div>
 
