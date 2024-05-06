@@ -1,11 +1,11 @@
 <div align="center">
 <h1>Ser speaker en la TRG</h1>
  
-[Las Charlas](#las-charlas) •
-[Qué aportamos a nuestros speakers](#qué-aportamos-a-nuestros-speakers) •
-[Algunos speakers de pasadas ediciones](#algunos-speakers-de-pasadas-ediciones) •
-[Recursos para speakers](#recursos-para-speakers) •
-[Contacto](#contacto)
+[Las Charlas](#-las-charlas) •
+[Qué aportamos a nuestros speakers](#-qué-aportamos-a-nuestros-speakers) •
+[Algunos speakers de pasadas ediciones](#-algunos-speakers-de-pasadas-ediciones) •
+[Recursos para speakers](#-recursos-para-speakers) •
+[Contacto](#-contacto)
 
 </div>
 
@@ -23,7 +23,7 @@ En esta ocasión queremos que todas las charlas giren alrededor de **las raices 
 
 
 
-## Las charlas
+## 🍿 Las charlas
  
 - **1** solo track
 - **30** minutos de charla
@@ -40,10 +40,10 @@ Más allá del tema, **tendrás total libertad para desarrollar tu charla.** Só
 
 Durante todo el proceso de creación de tu presentación, contarás con nuestro feedback y nuestra ayuda para **conseguir un resultado memorable.**
 
-[![Antonio dando su charla](img/speakers/antonio.jpg)](https://vimeo.com/trgcon/trg23-antonio){:target="_blank" rel="noopener"}
+[![Antonio dando su charla](img/speakers/antonio.jpg)](https://vimeo.com/trgcon/trg23-antonio)
 
 
-## Qué aportamos a nuestros speakers
+## 🛍️ Qué aportamos a nuestros speakers
 
 Remuneramos a ponentes speakers con **una pequeña gratificación de 250€**, pero el esfuerzo invertido en preparar una charla es igual que el esfuerzo invertido en preparar un evento —nunca es rentable desde el punto de vista económico— así que, lo menos que podemos hacer es compensarlos en su justa medida. Ellos son las verdaderas estrellas de la TRG.
 
@@ -62,7 +62,7 @@ Remuneramos a ponentes speakers con **una pequeña gratificación de 250€**, p
 ❤️ Cariño: Para nosotros no serás un ponente sino nuestro invitado. Nos dejaremos la piel para que te sientas como en casa.<br/>
 😺 Buen ambiente: amigable etc.
 
-## Algunos speakers de pasadas ediciones
+## 🌟 Algunos speakers de pasadas ediciones
 
 Esta es una pequeña muestra de ponentes de otras ediciones, tanto para que puedas comprobar qué tipo de personas que vienen a la TRG como para que puedas contactarlas y pedirles referencias sobre cómo fue la experiencia:
 
@@ -77,7 +77,7 @@ Esta es una pequeña muestra de ponentes de otras ediciones, tanto para que pued
 > Después de 7 años, aun me siguen recordando la charla que di en la primera TRG. Incluso gente que no estuvo allí..<br/>~ Javi Santana, Fundador de Carto y Tinybird
 
 
-## Recursos para speakers
+## 🧰 Recursos para speakers
 
 Materiales e información que puede ayudar a los speakers a entender mejor la filosofía y cultura detrás la TRG; y —tambien— a comprender la experiencia que vivirán en el evento.
 
@@ -85,7 +85,7 @@ Materiales e información que puede ayudar a los speakers a entender mejor la fi
 * [Vídeo-resumen de la TRG23 (2022)](https://vimeo.com/928563768?share=copy`)
 * [Álbumes en Flickr con las fotos de todas las ediciones](https://www.flickr.com/photos/tarugoconf/albums)
 
-## Contacto
+## ☎️ Contacto
 
 La coordinación de speakers está a cargo de [@david_bonilla](https://twitter.com/david_bonilla). La parte logística (transporte, alojamiento, acreditaciones, pagos...) la gestiona [@candelamd](https://twitter.com/candelamd) y el *call for papers* está organizado por [@jerolba](https://twitter.com/jerolba) e [@ydarias](https://twitter.com/ydarias).
 
