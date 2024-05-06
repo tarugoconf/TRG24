@@ -15,7 +15,7 @@ Propondrás las lineas maestras de tu presentación y, tras la propuesta, se con
 ### Cómo
 Si lo deseas, te ayudaremos con el *storytelling* y el diseño de la presentación para que esta sea PERFECTA.
 
-<< FOTO DE LA TRG >>
+![El auditorio de la TRG](img/speakers/escenario.jpg)
 
 ## Las charlas
  
