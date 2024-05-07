@@ -84,11 +84,13 @@ Esta es una pequeña muestra de ponentes de otras ediciones, tanto para que pued
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
-  <tr>
-    <td align="center"><a href="https://twitter.com/javisantana"><img src="https://github.com/tarugoconf/TRG23/blob/master/img/past-speakers/javi-santana.jpeg?s=100" width="100px;" alt="Javi Santana"/><br /><sub><b>Javi Santana (2016)</b></sub></a></td>
-    <td align="center"><a href="https://github.com/blanaspa"><img src="https://avatars.githubusercontent.com/u/30079172?v=4?s=100" width="100px;" alt="Blanca Lanaspa"/><br /><sub><b>Blanca Lanaspa</b></sub></a></td>
-    <td align="center"><a href="https://github.com/molpe"><img src="https://avatars.githubusercontent.com/u/7792?v=4?s=100" width="100px;" alt="Alberto Molpeceres"/><br /><sub><b>Alberto Molpeceres</b></sub></a></td>
-    <td align="center"><a href="https://github.com/jerolba"><img src="https://avatars.githubusercontent.com/u/709055?v=4?s=100" width="100px;" alt="Jerónimo López"/><br /><sub><b>Jerónimo López</b></sub></a></td>
+  <tr>    
+   <td align="center"><a href="https://twitter.com/vomkriege"><img src="https://github.com/tarugoconf/TRG23/blob/master/img/past-speakers/daniel-lopez.jpg?s=100" width="100px;" alt="Daniel Lopez"/><br /><sub><b>Daniel Lopez (2018)</b></sub></a></td>
+    <td align="center"><a href="https://twitter.com/AndreaBarberL"><img src="https://github.com/tarugoconf/TRG23/blob/master/img/past-speakers/andrea-barber.jpg?s=100" width="100px;" alt="Andrea Barber"/><br /><sub><b>Andrea Barber (2019)</b></sub></a></td>
+    <td align="center"><a href="https://twitter.com/molpe"><img src="https://avatars.githubusercontent.com/u/7792?v=4?s=100" width="100px;" alt="Alberto Molpeceres"/><br /><sub><b>Alberto Molpeceres (2016)</b></sub></a></td>
+    <td align="center"><a href="https://twitter.com/estheralone"><img src="https://github.com/tarugoconf/TRG23/blob/master/img/past-speakers/esther-alonso.jpg?s=100" width="100px;" alt="Esther Alonso"/><br /><sub><b>Esther Alonso (2018)</b></sub></a></td>
+   <td align="center"><a href="https://twitter.com/javisantana"><img src="https://github.com/tarugoconf/TRG23/blob/master/img/past-speakers/javi-santana.jpeg?s=100" width="100px;" alt="Javi Santana"/><br /><sub><b>Javi Santana (2016 y 2021)</b></sub></a></td>
+   <td align="center"><a href="https://twitter.com/crissantamarina"><img src="https://2017.tarugoconf.com/assets/img/speakers/speaker-cristina-santamarina.jpg?s=100" width="100px;" alt="Cristina Santamarina"/><br /><sub><b>Cristina Santamarina (2017)</b></sub></a></td>
   </tr>
 </table>
 
@@ -107,7 +109,7 @@ Materiales e información que puede ayudar a los speakers a entender mejor la fi
 
 * [El postmortem de la última edición (2023)](https://www.bonillaware.com/postmortem-trg23)
 * [Vídeo-resumen de la TRG23 (2022)](https://vimeo.com/928563768?share=copy`)
-* [Álbumes en Flickr con las fotos de todas las ediciones](https://www.flickr.com/photos/tarugoconf/albums)
+* [Álbumes en Flickr con (miles) fotos de todas las ediciones](https://www.flickr.com/photos/tarugoconf/albums)
 
 <br/>
 
