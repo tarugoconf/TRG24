@@ -11,18 +11,20 @@
 
 ![El auditorio de la TRG](img/speakers/escenario.jpg)
 
-Ser ponente de la TRG es una experiencia diferente. Empezando porque **la única forma de convertirte en uno/a de ellos es mediante invitación** y terminando porque no eligirás el tema sobre el que vas a hablar, solo cómo vas a desarrollarlo :)
+Ser ponente de la TRG es una experiencia diferente. Empezando porque, hasta ahora, **la única forma de convertirte en uno/a de ellos es mediante invitación** y terminando porque te proponderemos el tema sobre el que vas a hablar para que tú puedas desarrollarlo :)
 
-Una de las cosas más peculiares de la conferencia es que tiene «línea editorial». Primero **seleccionamos los temas que nos parecen más interesantes y, después, a las personas que creemos más apropiadas para hacerlo.** Por ejemplo, a ti. No hay *call for papers* ni charlas patrocinadas, todos los contenidos son planificados y cuidados con detalle.
+Una de las cosas más peculiares de la conferencia es que tiene «línea editorial». Primero **seleccionamos los temas que nos parecen más interesantes y, después, a las personas que creemos más apropiadas para hablar sobre los mismos.** Por ejemplo, a ti. No hay charlas patrocinadas, solo un único *track* con todos los contenidos son planificados y cuidados con detalle.
 
-En esta ocasión queremos que todas las charlas giren alrededor de **las raices de la Informática y los valores que la modelaron**, pero desde un punto de vista diferente al habitual.
+En esta edición queremos que las charlas giren alrededor de **las raices de la Informática y los valores que la modelaron**, pero desde un punto de vista diferente al habitual.
 
-| Quién | Por qué | Qué | Cómo |
-| :-: | :-: | :-: | :-: |
-| Recibirás una invitación personal para participar en la TRG. | Si aceptas, nos reuniremos para explicarte nuestra idea y consensuar la visión de tu charla. | Propondrás las lineas maestras de tu presentación y, tras la propuesta, se confirmará tu ponencia. | Si lo deseas, te ayudaremos con el *storytelling* y el diseño de la presentación para que esta sea PERFECTA. |
+Si aceptas nuestra invitación, nos reuniremos para explicarte nuestra idea y consensuar la visión de tu charla. Propondrás las lineas maestras de tu presentación y, tras la propuesta, se confirmará tu ponencia. Si lo deseas, te ayudaremos con el *storytelling* y el diseño de la presentación para que esta sea PERFECTA, pero tú tendrás SIEMPRE la última palabra.
 
+<div align="center">
+ 
+![Timeline de Speakers](img/speakers/timeline_trg24.png)
 
-<br/>
+</div>
+
 
 ## 🍿 Las charlas
  
