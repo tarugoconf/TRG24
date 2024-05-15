@@ -5,6 +5,7 @@
 [Qué aportamos a nuestros speakers](#%EF%B8%8F-qu%C3%A9-aportamos-a-nuestros-speakers) •
 [Algunos speakers de pasadas ediciones](#-algunos-speakers-de-pasadas-ediciones) •
 [Recursos para speakers](#-recursos-para-speakers) •
+[FAQ](#-faq) •
 [Contacto](#%EF%B8%8F-contacto)
 
 </div>
@@ -112,6 +113,15 @@ Materiales e información que puede ayudar a los speakers a entender mejor la fi
 * [El postmortem de la última edición (2023)](https://www.bonillaware.com/postmortem-trg23)
 * [Vídeo-resumen de la TRG23 (2022)](https://vimeo.com/928563768?share=copy`)
 * [Álbumes en Flickr con (miles) fotos de todas las ediciones](https://www.flickr.com/photos/tarugoconf/albums)
+
+<br/>
+
+## ❓ FAQ
+
+<details>
+ <summary>¿No hay <em>call for papers</em>?</summary>
+  <p><br/>Pues, hasta ahora, no. Todos los ponentes han sido invitados por la organización, pero este año <b>hemos reservado una de las charlas</b> para propuestas de la Comunidad. Si te animas, puedes enviar la tuya <a href="https://docs.google.com/forms/d/1d6ouzdXtsfQ4DVrXIH_07LAbkvWud-KcS-sLqr4XNnU/edit?ts=66427be3" target="_blank">aquí</a>.</p>
+</details>
 
 <br/>
 
