@@ -120,7 +120,8 @@ Materiales e información que puede ayudar a los speakers a entender mejor la fi
 
 <details>
  <summary>¿No hay <em>call for papers</em>?</summary>
-  <p><br/>Pues, hasta ahora, no. Todos los ponentes han sido invitados por la organización, pero este año <b>hemos reservado una de las charlas</b> para propuestas de la Comunidad. Si te animas, puedes enviar la tuya <a href="https://docs.google.com/forms/d/1d6ouzdXtsfQ4DVrXIH_07LAbkvWud-KcS-sLqr4XNnU/edit?ts=66427be3" target="_blank">aquí</a>.</p>
+  <p><br/>Pues, hasta ahora, no. Todos los ponentes han sido invitados por la organización, pero este año <b>hemos reservado una de las charlas</b> para propuestas de la Comunidad. Si te animas, puedes enviar la tuya <a href="https://docs.google.com/forms/d/1d6ouzdXtsfQ4DVrXIH_07LAbkvWud-KcS-sLqr4XNnU/viewform?edit_requested=true" target="_blank">aquí</a>.</p>
+
 </details>
 
 <br/>
