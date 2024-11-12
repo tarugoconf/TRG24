@@ -1,3 +1,17 @@
 ## Las ofertacas de empleo de la TRG24
 
-TBD
+- [Code Wrangler @ Automattic](https://automattic.com/work-with-us/job/code-wrangler/)
+- [Senior Java Backend Engineer @ Diverger](https://diverger.factorialhr.es/job_posting/senior-java-software-engineer-223433)
+- [Full-Stack Engineer @ DoiT](https://grnh.se/2e4c682a3us)
+- [Senior Software Engineer @ Eventbrite](https://www.eventbritecareers.com/jobs/senior-software-engineer-remote-spain-789d797c-f953-48fc-a592-b7205df94b78)
+- [Staff Product Designer @ Factorial](https://careers.factorialhr.com/job_posting/staff-product-designer-37860)
+- [Domain Architect @ ING](https://www.ing.jobs/vacancy/domain-architect-lending-investment-1.htm?org=searchresult)
+- [Full-Stack Developer @ Izertis](https://jobs.izertis.com/jobs/desarrollador-full-stack-java-angular-recurrente)
+- [Múltiples posiciones @ Next Digital](https://www.linkedin.com/company/nextdigitalhub/jobs/)       
+- [Java Developer @ Panel](https://www.panel.es/talento-empleo/desarrollo-java-)
+- [Senior Backend Engineer @ Playtomic](https://playtomic.factorialhr.es/job_posting/senior-backend-engineer-210994)        
+- [Team lead in Microsoft global product team @ Shakers](https://app.shakersworks.com/register/talent?utm_campaign=Talent_BOFU_Evento_Tr%C3%A1fico__TRG_2024&utm_medium=evento&utm_source=TRG_2024)
+- [Comercial técnico @ Slimbook](mailto:rrhh@slimbook.com)
+- [Senior Azure Data Engineer @ Sngular](https://www.sngular.com/talent/32/senior-data-engineer-azure)
+- [Administrador/a sistemas Cloud @ STR Sistemas](https://www.strsistemas.com/blog/buscamos-nuevos-administradores-de-sistemas-cloud)
+- [Technical Solutions Engineer @ Tinybird](https://jobs.lever.co/tinybird/dddaf7d6-6a0e-48b5-855d-bbbd91da565f)
